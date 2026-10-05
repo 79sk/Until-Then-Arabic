@@ -7,15 +7,13 @@
 هنا تعريب Until Then بالعربي، مع مراجعة يدوية سياقية للحوارات والضمائر وتوحيد أسماء الشخصيات والمصطلحات. اهتمّينا بالنصوص وبطريقة ظهورها داخل اللعبة، من خطوط عربية تناسب أجواءها إلى اتجاه الكتابة والمحاذاة وتأثيرات الحوار.
 
 **التعريب والتدقيق:** [seven — @sevenlization](https://x.com/sevenlization)  
-**النسخة:** Steam على Windows · **الحجم:** حوالي 6.4 MB · **السعر:** مجاني
+**النسخة:** Steam على Windows · **الحجم:** حوالي 6.4 MB .
 
 ## تحميل التعريب
 
 ### [⬇️ اضغط هنا لتحميل التعريب v0.11](https://github.com/79sk/Until-Then-Arabic/releases/download/v0.11/UntilThen_Arabic_v0.11_Sevenlization.zip)
 
 [صفحة الإصدار](https://github.com/79sk/Until-Then-Arabic/releases/tag/v0.11) · [الإبلاغ عن مشكلة](https://github.com/79sk/Until-Then-Arabic/issues/new)
-
-الحزمة فيها ملفات التعريب وشرح التثبيت فقط، بدون EXE أو برنامج تثبيت. ما تحتاج تستبدل ملف اللعبة الكبير.
 
 ## وش يشمل التعريب؟
 
@@ -87,7 +85,7 @@ C:\Program Files (x86)\Steam\steamapps\common\Until Then
 
 ## لقيت مشكلة؟
 
-افتح [بلاغًا هنا](https://github.com/79sk/Until-Then-Arabic/issues/new)، وأرفق صورة للنص مع اسم المشهد أو وصف المكان. وإذا تستخدم اختصارًا يدويًا، تأكد أن خانة `Start in` تشير إلى مجلد اللعبة.
+افتح [بلاغًا هنا](https://github.com/79sk/Until-Then-Arabic/issues/new)، وأرفق صورة للنص مع اسم المشهد أو وصف المكان.
 
 ## حقوق التعريب
 
